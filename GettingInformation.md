@@ -6,3 +6,5 @@ systeminfo || Gets computers Host NAme, OS Version, Domain, System Type and much
 
 get-netadapter || Gets computers MacAdresss and different types of network connections.
 
+Get-Command || Gets and displays every powershell Command with their CommandType and Version.
+
