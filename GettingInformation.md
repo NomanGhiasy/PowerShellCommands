@@ -8,3 +8,5 @@ get-netadapter || Gets computers MacAdresss and different types of network conne
 
 Get-Command || Gets and displays every powershell Command with their CommandType and Version.
 
+Get-ChildItem || Gets the File's\items inside a folder or drive. E.g: (Get-ChildItem C:\) will display all the folders and files inside the C: drive. 
+
