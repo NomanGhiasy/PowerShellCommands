@@ -10,3 +10,4 @@ Get-Command || Gets and displays every powershell Command with their CommandType
 
 Get-ChildItem || Gets the File's\items inside a folder or drive. E.g: (Get-ChildItem C:\) will display all the folders and files inside the C: drive. 
 
+Get-Process || Gets a list of all your system processes in a table format.
