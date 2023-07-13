@@ -2,7 +2,7 @@
 
 **Get-WmiObject win32_bios** || Gets computers BiosVersion, Manufacture, Name, SerialNumber and Version. 
 
-**systeminfo** || Gets computers Host NAme, OS Version, Domain, System Type and much more. 
+**systeminfo** || Gets computers Host Name, OS Version, Domain, System Type and much more. 
 
 **get-netadapter** || Gets computers MacAdresss and different types of network connections.
 
