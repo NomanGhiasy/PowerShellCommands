@@ -4,7 +4,7 @@
 
 **systeminfo** || Gets computers Host Name, OS Version, Domain, System Type and much more. 
 
-**get-netadapter** || Gets computers MacAdresss and different types of network connections.
+**Get-Netadapter** || Gets computers MacAdresss and different types of network connections.
 
 **Get-Command** || Gets and displays every powershell Command with their CommandType and Version.
 
@@ -14,3 +14,12 @@
 
 **Get-History** || Gets a list of all the commands that have been run in the current session. 
 
+**Get-Service** || Gets a list of status and all services that are running on your computer.
+
+**Get-Location** || Gets the current directory of the current PowerShell runspace. 
+
+**Get-Date** || Displays the current system date and time. The output is in the long-date and long-time formats.
+
+**Get-StartApps** || Gets the names and AppIDs of apps installed on the Start Menu.
+
+**Get-Printer** || Gets a list of printers installed on a computer, driver name and the type. 
