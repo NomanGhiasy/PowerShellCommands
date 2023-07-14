@@ -18,7 +18,7 @@
 
 **Get-Location** || Gets the current directory of the current PowerShell runspace. 
 
-**Get-Date** || Displays the current system date and time. The output is in the long-date and long-time formats.
+**Get-Date** || Gets the current system date and time. The output is in the long-date and long-time formats.
 
 **Get-StartApps** || Gets the names and AppIDs of apps installed on the Start Menu.
 
