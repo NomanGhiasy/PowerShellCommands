@@ -20,8 +20,8 @@
 
 **Get-Date** || Gets the current system date and time. The output is in the long-date and long-time formats.
 
-**Get-StartApps** || Gets the names and AppIDs of apps installed on the Start Menu.
+**Get-StartApps** || Gets the names and AppIDs of apps that are installed on the Start Menu.
 
 **Get-Printer** || Gets a list of printers installed on a computer, driver name and the type. 
 
-**Hostname** || Gets computer's name. 
+**Hostname** || Gets computer's name.
