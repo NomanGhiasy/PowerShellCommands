@@ -22,6 +22,6 @@
 
 **Get-StartApps** || Gets the names and AppIDs of apps that are installed on the Start Menu.
 
-**Get-Printer** || Gets a list of printers installed on a computer, driver name and the type. 
+**Get-Printer** || Gets a list of printers that are installed on a computer, driver name and the type. 
 
 **Hostname** || Gets computer's name.
