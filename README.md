@@ -12,7 +12,7 @@ ________________________________________________________________________________
  
 </div>
 
-[profile settings](https://github.com/settings)
+[profile settings][(https://github.com/settings](https://github.com/NomanGhiasy/PowerShellCommands/blob/main/GettingInformation.md)https://github.com/NomanGhiasy/PowerShellCommands/blob/main/GettingInformation.md)
 
 
 
