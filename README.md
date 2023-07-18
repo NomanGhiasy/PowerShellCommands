@@ -12,7 +12,7 @@ ________________________________________________________________________________
  
 </div>
 
-[GettingInformation](https://github.com/NomanGhiasy/PowerShellCommands/blob/main/GettingInformation.md)
+#### These PowerShell commands are helpful for getting information: [GettingInformation](https://github.com/NomanGhiasy/PowerShellCommands/blob/main/GettingInformation.md)
 
 
 
