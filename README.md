@@ -15,8 +15,8 @@ ________________________________________________________________________________
 
 
 <div align="center">
-_________________________________________________________________________________________________________
- 
+
+
 #### These PowerShell commands are helpful for getting information: [GettingInformation](https://github.com/NomanGhiasy/PowerShellCommands/blob/main/GettingInformation.md)
 
 
