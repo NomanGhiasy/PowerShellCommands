@@ -10,7 +10,7 @@
 
 **Get-ChildItem** || Gets the File's\items inside a folder or drive. E.g: (Get-ChildItem C:\) will display all the folders and files inside the C: drive. 
 
-**Get-Process** || Gets a list of all your system processes in a table format.
+**Get-Process** || Gets a list of all the system processes in a table format.
 
 **Get-History** || Gets a list of all the commands that have been run in the current session. 
 
