@@ -1,1 +1,7 @@
-
+# ~/.circleci/config.yml
+version: 2.1
+jobs:
+  test:
+    docker:
+      - image: cimg/base:2022.11
+    parallelism: 4
