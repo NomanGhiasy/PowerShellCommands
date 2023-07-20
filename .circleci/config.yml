@@ -1,7 +1,11 @@
-# ~/.circleci/config.yml
-version: 2.1
 jobs:
-  test:
+  build:
     docker:
-      - image: cimg/base:2022.11
-    parallelism: 4
+      - image: cimg/base:2022.09
+    environment:
+      FOO: bar
+    parallelism: 3
+    resource_class: large
+    working_directory: ~/my-app
+    steps:
+      - run: go test -v $(go list ./... | circleci tests split)
