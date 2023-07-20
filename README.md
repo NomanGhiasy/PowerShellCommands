@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 <div align="center">
 
-#### These PowerShell commands are helpful for getting information: [Click Me](https://github.com/NomanGhiasy/PowerShellCommands/blob/main/GettingInformation.md)
+#### These PowerShell commands are helpful for getting information: *[Click Me](https://github.com/NomanGhiasy/PowerShellCommands/blob/main/GettingInformation.md)*
 
 </div>
 
