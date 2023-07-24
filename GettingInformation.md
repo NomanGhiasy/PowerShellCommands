@@ -1,4 +1,4 @@
-**Get-NetIPAddress** || Gets Computer/user IPAddress, Type, AddressFamily PolicyStore and much more. 
+**Get-NetIPAddress** || Gets Computer/user IPAddress, Type, AddressFamily PolicyStore and more.
 
 **Get-WmiObject win32_bios** || Gets computer's BiosVersion, Manufacture, Name, SerialNumber and Version. 
 
