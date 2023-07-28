@@ -28,4 +28,3 @@
 
 **Hostname** || Gets the computer's name.
 
-asdwe iasd k 
