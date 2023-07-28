@@ -1,4 +1,4 @@
-# 📃PowerShell commands 
+# 📃PowerShell commands that gets you information📃 
 
 
 **Get-NetIPAddress** || Gets Computer/user IPAddress, Type, AddressFamily PolicyStore and more.
