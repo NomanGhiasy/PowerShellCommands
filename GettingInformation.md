@@ -27,3 +27,5 @@
 **Get-Printer** || Gets a list of printers that are installed on a computer, driver name and the type. 
 
 **Hostname** || Gets the computer's name.
+
+asdwe iasd k 
