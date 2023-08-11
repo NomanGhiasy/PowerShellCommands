@@ -9,8 +9,10 @@ You can use the following on a domain controller to check the properties of a us
 ## How to ping IP address and find out corresponding IP address domain name system (DNS) record:
 Type **“ping”** hit space and type the IP address you'd like to ping (e.g., 192.XXX.X.X),and for the Type **nslookup** and the command will return the A record for the domain you ran a query for. You can also type **nslookup** and a ip number ( e.g., nslookup 192.XXX.X.X) the command prompt will return the DNS name and the IP you entered.
 
-## Out-File
-**Need to be fixed/updated** (Need to save your PowerShell output to a raw text file? Out-File is the cmdlet you’re looking for.
+## How to save your PowerShell output to a raw text file:
+
+Out-File is the cmdlet you’re looking for.
+
 
 To use the Out-File cmdlet, you can either use the piping operator to pass output to it or the -InputObject parameter to specify the objects to be written to the file.
 
