@@ -16,9 +16,10 @@ Out-File is the cmdlet you’re looking for.
 
 To use the Out-File cmdlet, you can either use the piping operator to pass output to it or the -InputObject parameter to specify the objects to be written to the file.
 
-Get-Process | Out-File C:\Temp\processes.txt
+**Get-Process | Out-File C:\Temp\processes.txt**
+
 Or:
 
-$proc = Get-Process
+**$proc = Get-Process**
 Out-File C:\Temp\processes.txt -InputObject $proc
 These commands provide the same results, creating a text file containing the output of the Get-Process cmdlet. It’s important to note that the information in the text file will be formatted as if sent to the terminal window.)
