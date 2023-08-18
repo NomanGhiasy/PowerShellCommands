@@ -11,7 +11,7 @@ Type **“ping”** hit space and type the IP address you'd like to ping (e.g., 
 
 ## How to save your PowerShell output to a raw text file:
 Out-File is the cmdlet you’re looking for.
-To use the Out-File cmdlet, you can either use the piping operator to pass output to it or the -InputObject parameter to specify the objects to be written to the file.
+To use the Out-File cmdlet, you can either use the piping operator to pass output to it or the **-InputObject** parameter to specify the objects to be written to the file.
 **Get-Process | Out-File C:\Temp\processes.txt**
 Or:
 **$proc = Get-Process**
