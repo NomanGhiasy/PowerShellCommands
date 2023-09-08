@@ -17,3 +17,18 @@ Or:
 **$proc = Get-Process**
 **Out-File C:\Temp\processes.txt -InputObject $proc**
 These commands provide the same results, creating a text file containing the output of the Get-Process cmdlet. It’s important to note that the information in the text file will be formatted as if sent to the terminal window.
+
+
+
+
+
+## How To Run A PowerShell Script
+There are two main ways to make a PowerShell script:
+
+The first, which will be familiar if you’ve used Windows Command Line before, is to write scripts directly in notepad. For example, open a new notepad file, and write 
+Write-Host “Hello World!”
+
+Then save this file as FirstScript.ps1
+
+You can call the script from PowerShell using the command:
+
