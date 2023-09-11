@@ -24,7 +24,8 @@ These commands provide the same results, creating a text file containing the out
 
 ## How To Run A PowerShell Script
 There are two main ways to make a PowerShell script:
-The first, which will be familiar if you’ve used Windows Command Line before, is to write scripts directly in notepad. For example, open a new notepad file, and write 
+The first, which will be familiar if you’ve used Windows Command Line before, is to write scripts directly in notepad. For example, open a new notepad file, and write:
+
 **Write-Host “Hello World!”**
 
 Then save this file as FirstScript.ps1
