@@ -32,7 +32,7 @@ Then save this file as FirstScript.ps1
 
 You can call the script from PowerShell using the command:
 
-& "X:\FirstScript.ps1"
+& "**X:\FirstScript.ps1**"
 
 And you’ll see the output in PowerShell.
 
