@@ -37,3 +37,11 @@ You can call the script from PowerShell using the command:
 And you’ll see the output in PowerShell.
 
 The second, much more powerful way of making PowerShell scripts is to use the Windows PowerShell Integrated Scripting Environment (ISE). With ISE, you can run scripts and debug them in a GUI environment. 
+
+## To find a computer's serial number, you can:
+Run Command Prompt as an administrator
+Type **wmic**
+Type **bios**
+Type get serial number
+Press Enter 
+You can also use PowerShell. 
