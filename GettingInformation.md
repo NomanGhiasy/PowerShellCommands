@@ -28,4 +28,4 @@
 
 **Hostname** || Gets the computer's name.
 
-**systeminfo |findstr /B "Domain"** || 
+**systeminfo |findstr /B "Domain"** || How to check if a Windows PC is joined to a domain.
