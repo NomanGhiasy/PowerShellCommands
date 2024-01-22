@@ -28,3 +28,4 @@
 
 **Hostname** || Gets the computer's name.
 
+**systeminfo |findstr /B "Domain"** || 
